@@ -19,7 +19,7 @@
 
 ## Software:
 
-+ Docker to deliver other software in containers.
++ Docker
 + ArduinoIDE
 + WebStorm
 + PyCharm
