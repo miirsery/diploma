@@ -11,6 +11,7 @@
 
 + Vue for JavaScript.
 + Django for GoLang.
++ React Native for mobile application/
 
 ## Stack hardware:
 
