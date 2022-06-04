@@ -10,7 +10,7 @@
 ## Stack frameworks:
 
 + Vue for JavaScript.
-+ Django for GoLang.
++ Django for Python.
 + React Native for mobile application/
 
 ## Stack hardware:
